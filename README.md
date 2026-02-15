@@ -1,4 +1,4 @@
 # FileNameChanger
 Dateフォーマットファイル名変換ツール 
 
-.Net4対応しました。
+WINDOWSの.Net4対応しました。
