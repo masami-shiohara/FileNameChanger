@@ -1,6 +1,6 @@
 # FileNameChanger
 Dateフォーマットファイル名変換ツール 
 
-WINDOWSの.Net3.5対応
+WINDOWSの.Net4.8対応（VisualStudio2026）
 
 ソースはC#でできています。
